@@ -10,3 +10,8 @@ This repository contains our research into planets
    - question 2a
    - question 2b
 * Question 3
+
+... 
+Contact us for help
+...
+This is a sample of markdown
